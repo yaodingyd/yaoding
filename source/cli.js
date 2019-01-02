@@ -11,14 +11,14 @@ const ui = importJsx('./ui');
 
 meow(`
 	Usage
-	  $ sindresorhus
+	  $ yaoding
 `);
 
-const fallback = async () => {
-	const image = await terminalImage.file(path.join(__dirname, 'avatar-fallback.png'));
-	console.log(image);
-};
+// const fallback = async () => {
+// 	const image = await terminalImage.file(path.join(__dirname, 'avatar-fallback.png'));
+// 	console.log(image);
+// };
 
-termImg(path.join(__dirname, 'avatar.png'), {fallback});
+// termImg(path.join(__dirname, 'avatar.png'), {fallback});
 
 render(h(ui));

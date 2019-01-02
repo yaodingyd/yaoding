@@ -1,16 +1,13 @@
-# sindresorhus [![Build Status](https://travis-ci.org/sindresorhus/sindresorhus.svg?branch=master)](https://travis-ci.org/sindresorhus/sindresorhus)
+# yaoding
 
-> The [Sindre Sorhus](https://sindresorhus.com) CLI
-
-<img src="screenshot.png" width="752">
-
+> A CLI about me
 
 ## Usage
 
 Install Node.js, then:
 
 ```
-$ npx sindresorhus
+$ npx yaoding
 ```
 
 
@@ -22,4 +19,4 @@ $ npx sindresorhus
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT
