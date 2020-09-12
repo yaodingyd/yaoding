@@ -1,6 +1,6 @@
 # yaoding
 
-> A CLI about me
+> A CLI about Yao Ding
 
 ## Usage
 
